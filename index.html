@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>마켄과 함께한 핑크런 · MARKEN × Pink Run</title>
+<meta name="description" content="MARKEN이 2023년부터 매년 참가해 온 핑크런의 기록. 유방암 자가검진과 조기진단의 중요성을 알리는 기부 캠페인입니다." />
+<meta property="og:title" content="마켄과 함께한 핑크런" />
+<meta property="og:description" content="MARKEN × Pink Run 2023–2025 기록" />
+<meta property="og:image" content="assets/hero/hero.jpg" />
+<meta name="theme-color" content="#0E2554" />
+<link rel="icon" type="image/png" href="assets/brand/favicon.png" />
+<link rel="apple-touch-icon" href="assets/brand/favicon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;1,9..144,400;1,9..144,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- ░░ Top Nav ░░ -->
+<header class="nav" id="nav">
+  <a class="nav__brand" href="#top" aria-label="MARKEN Pink Run 홈">
+    <img class="nav__logo" src="assets/brand/logo.png" alt="MARKEN" width="236" height="80" />
+    <span class="nav__bar" aria-hidden="true"></span>
+    <span class="nav__pr">Pink&nbsp;Run</span>
+  </a>
+  <a class="nav__cta" id="applyBtn" href="#" target="_blank" rel="noopener">신청하기</a>
+</header>
+
+<main id="top">
+
+  <!-- ░░ HERO ░░ -->
+  <section class="hero" id="hero">
+    <div class="hero__media">
+      <img class="hero__img" src="assets/hero/hero.jpg" alt="2025 핑크런 아치 아래 모인 참가자들" />
+    </div>
+    <div class="hero__grad"></div>
+    <div class="hero__grain"></div>
+    <div class="hero__content">
+      <p class="hero__eyebrow" data-hero>MARKEN × PINK RUN · 2023—2025</p>
+      <h1 class="hero__title">
+        <span data-hero>마켄과 함께한</span>
+        <span data-hero><em>핑크런</em></span>
+      </h1>
+      <p class="hero__lead" data-hero>2023년부터 세 번의 가을, 마케너들이 함께 달린 날들.</p>
+    </div>
+    <a class="hero__scroll" data-hero href="#manifesto" aria-label="아래로 스크롤"><span>SCROLL</span><i></i></a>
+  </section>
+
+  <!-- ░░ MANIFESTO ░░ -->
+  <section class="manifesto" id="manifesto">
+    <p class="manifesto__kicker reveal">ABOUT PINK RUN</p>
+    <h2 class="manifesto__text">
+      <span class="reveal">MARKEN은 2023년부터</span>
+      <span class="reveal">매년 핑크런에 참가하고 있습니다.</span>
+    </h2>
+    <p class="manifesto__body reveal">
+      핑크런은 유방 건강 정보를 알리고 자가검진과 조기진단의 중요성을 전하는 기부 캠페인입니다.<br />
+      참가비 전액은 한국유방건강재단에 기부되어 유방암 환자 지원에 쓰입니다.<br />
+      건강하고 따뜻한 사회를 위해, 앞으로도 함께합니다.
+    </p>
+    <dl class="manifesto__org reveal">
+      <div>
+        <dt>공동주최</dt>
+        <dd>한국유방건강재단 · 한국유방암학회 · 대한암협회 · 서울시여성가족재단</dd>
+      </div>
+      <div>
+        <dt>후원</dt>
+        <dd>보건복지부 · 서울특별시 · 하나은행 · OOFOS</dd>
+      </div>
+    </dl>
+  </section>
+
+  <!-- ░░ ACTS (injected by JS) ░░ -->
+  <div id="acts"></div>
+
+  <!-- ░░ FINALE ░░ -->
+  <section class="finale" id="finale">
+    <div class="finale__inner">
+      <div class="finale__head reveal">
+        <div>
+          <p class="finale__kicker">MEMORY WALL</p>
+          <h2 class="finale__title">참가자 메시지</h2>
+        </div>
+        <button class="wall__add" id="addComment" hidden>＋ 메시지 남기기</button>
+      </div>
+
+      <p class="wall__status" id="wallStatus">메시지를 불러오는 중…</p>
+      <div class="wall" id="wall"></div>
+      <div class="cta reveal">
+        <h3>2026 핑크런</h3>
+        <p>2026년 10월 11일(일) 07:30 · 상암 월드컵공원 평화광장<br/>5km / 10km · 참가비 마켄코리아 전액 지원 · 임직원 및 가족·친구</p>
+        <a class="cta__btn" id="applyBtn2" href="https://form.naver.com/response/wOOcuNdggA" target="_blank" rel="noopener">2026 핑크런 신청하기</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <span class="foot__brand">
+      <img class="foot__logo" src="assets/brand/logo.png" alt="MARKEN" width="236" height="80" />
+      <span class="foot__bar" aria-hidden="true"></span>
+      Pink Run
+    </span>
+    <span class="foot__copy">MARKEN Korea · 2023—2025 Pink Run Archive</span>
+  </footer>
+</main>
+
+<!-- ░░ 메시지 작성 팝업 ░░ -->
+<div class="cmodal" id="cmodal" aria-hidden="true" role="dialog" aria-modal="true">
+  <div class="cmodal__backdrop" data-cclose></div>
+  <form class="cmodal__panel" id="cform" aria-label="메시지 작성">
+    <button type="button" class="cmodal__x" data-cclose aria-label="닫기">✕</button>
+    <h3 class="cmodal__title">메시지 남기기</h3>
+    <input id="cName" class="cform__in" type="text" placeholder="이름 또는 닉네임" maxlength="24" autocomplete="off" />
+    <textarea id="cMsg" class="cform__ta" placeholder="핑크런에서의 이야기를 남겨주세요" maxlength="500"></textarea>
+    <p class="cform__label">참가 유형 <span>(선택)</span></p>
+    <div class="chips" id="cRole" role="group" aria-label="참가 유형">
+      <button type="button" class="chip" data-role="2026 러너">2026 러너</button>
+      <button type="button" class="chip" data-role="2025 러너">2025 러너</button>
+      <button type="button" class="chip" data-role="2024 러너">2024 러너</button>
+      <button type="button" class="chip" data-role="2023 러너">2023 러너</button>
+      <button type="button" class="chip" data-role="마켄 가족">마켄 가족</button>
+      <button type="button" class="chip" data-role="__etc">기타</button>
+    </div>
+    <input id="cRoleEtc" class="cform__in cform__etc" type="text" placeholder="참가 유형을 직접 입력해 주세요" maxlength="20" autocomplete="off" hidden />
+    <div class="cform__foot">
+      <span class="cform__hint">등록 후에는 직접 수정·삭제가 어려워요. 내용을 한 번 더 확인해 주세요.</span>
+      <div class="cform__actions">
+        <button type="button" class="cform__btn cform__cancel" data-cclose>취소</button>
+        <button type="submit" class="cform__btn cform__submit">남기기</button>
+      </div>
+    </div>
+  </form>
+</div>
+
+<!-- ░░ LIGHTBOX ░░ -->
+<div class="lb" id="lb" aria-hidden="true" role="dialog" aria-modal="true">
+  <div class="lb__backdrop" data-close></div>
+  <button class="lb__nav lb__prev" id="lbPrev" aria-label="이전 사진">‹</button>
+  <button class="lb__nav lb__next" id="lbNext" aria-label="다음 사진">›</button>
+  <figure class="lb__figure">
+    <img class="lb__img" id="lbImg" src="" alt="" />
+    <figcaption class="lb__cap">
+      <span class="lb__year" id="lbYear"></span>
+      <span class="lb__text" id="lbText"></span>
+    </figcaption>
+  </figure>
+  <div class="lb__tools">
+    <a class="lb__tool" id="lbDownload" download aria-label="사진 저장">⤓ 저장</a>
+    <button class="lb__tool lb__close" data-close aria-label="닫기">✕ 닫기</button>
+  </div>
+</div>
+
+<!-- ░░ 스크롤 중 뜨는 신청 버튼 ░░ -->
+<a class="floatcta" id="floatCta" href="https://form.naver.com/response/wOOcuNdggA" target="_blank" rel="noopener">2026 핑크런 신청하기</a>
+
+<div class="toast" id="toast"></div>
+
+<script src="assets/vendor/gsap.min.js"></script>
+<script src="assets/vendor/ScrollTrigger.min.js"></script>
+<script src="assets/vendor/lenis.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
