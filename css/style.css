@@ -168,10 +168,10 @@ em{font-style:normal}
 .tile:hover .tile__zoom{opacity:1}
 
 /* ── Finale / Memory wall ── */
-.finale{background:var(--navy);color:#fff;padding:clamp(5rem,12vh,9rem) clamp(1.2rem,5vw,4rem)}
-.finale__inner{max-width:var(--maxw);margin:0 auto}
+.finale{background:var(--navy);color:#fff;padding:clamp(5rem,12vh,9rem) 0}
+.finale__inner{max-width:var(--maxw);margin:0 auto;padding:0 clamp(1.2rem,5vw,4rem)}
 .finale__kicker{font-size:var(--font-size-c1);letter-spacing:.24em;font-weight:700;color:var(--pink);margin-bottom:1rem}
-.finale__title{font-size:clamp(30px,5vw,54px);font-weight:800;letter-spacing:-.02em;margin-bottom:clamp(2.5rem,6vh,4rem)}
+.finale__title{font-size:clamp(30px,5vw,54px);font-weight:800;letter-spacing:-.02em;margin-bottom:calc(clamp(2.5rem,6vh,4rem) + 12px)}
 .wall{columns:3;column-gap:1.2rem}
 .wall__card{break-inside:avoid;margin-bottom:1.2rem;background:rgba(255,255,255,.06);
   border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:1.4rem 1.5rem;backdrop-filter:blur(4px)}

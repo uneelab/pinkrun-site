@@ -474,7 +474,7 @@ window.PINKRUN = {
    "year": 2025,
    "title": "Pink Festival",
    "date": "12 OCT 2025 · SUN",
-   "sub": "두 번째 참가. 지금까지 중 가장 많은 마켄러너가 함께했습니다."
+   "sub": "두 번째 참가. 지금까지 중 가장 많은 마켄러너가<br />함께했습니다."
   },
   {
    "year": 2024,
