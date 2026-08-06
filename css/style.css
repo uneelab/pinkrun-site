@@ -176,7 +176,7 @@ em{font-style:normal}
 .wall__card{break-inside:avoid;margin-bottom:1.2rem;background:rgba(255,255,255,.06);
   border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:1.4rem 1.5rem;backdrop-filter:blur(4px)}
 .wall__msg{font-size:var(--font-size-b2);line-height:1.6}
-.wall__by{margin-top:1rem;font-size:var(--font-size-c1);color:var(--pink-soft);font-weight:600}
+.wall__by{margin-top:1rem;font-size:var(--font-size-c1);color:#fff;font-weight:600}
 .wall__by em{font-family:var(--font-family-base);font-style:normal;font-weight:var(--font-weight-regular);color:var(--lime)}
 .wall__status{margin-bottom:1.2rem;font-size:var(--font-size-b3);color:rgba(255,255,255,.5)}
 .wall__status[hidden]{display:none}
