@@ -1,132 +1,6 @@
 window.PINKRUN = {
  "photos": [
   {
-   "id": "y2023-01",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "분홍빛으로 물든 하루"
-  },
-  {
-   "id": "y2023-02",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "우리가 함께한 그 시간"
-  },
-  {
-   "id": "y2023-03",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "웃음이 번지던 순간"
-  },
-  {
-   "id": "y2023-04",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "가장 가까이에서 나눈 온기"
-  },
-  {
-   "id": "y2023-05",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "서로의 어깨에 기대어"
-  },
-  {
-   "id": "y2023-06",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "핑크빛 응원"
-  },
-  {
-   "id": "y2023-07",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "함께라서 따뜻했던 하루"
-  },
-  {
-   "id": "y2023-09",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "오늘만큼은 활짝"
-  },
-  {
-   "id": "y2023-10",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "마음을 잇는 리본"
-  },
-  {
-   "id": "y2023-12",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "우리의 분홍 곰"
-  },
-  {
-   "id": "y2023-14",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "다 같이, 하나 되어"
-  },
-  {
-   "id": "y2023-15",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "포근했던 그날의 기억"
-  },
-  {
-   "id": "y2023-16",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "웃음소리로 가득 찬 방"
-  },
-  {
-   "id": "y2023-17",
-   "year": 2023,
-   "w": 2000,
-   "h": 1500,
-   "ratio": 0.75,
-   "orient": "landscape",
-   "caption": "서로를 지켜준다는 것"
-  },
-  {
    "id": "y2024-01",
    "year": 2024,
    "w": 2000,
@@ -600,19 +474,13 @@ window.PINKRUN = {
    "year": 2025,
    "title": "Pink Festival",
    "date": "12 OCT 2025 · SUN",
-   "sub": "세 번째 참가. 지금까지 중 가장 많은 마케너가 함께했습니다."
+   "sub": "두 번째 참가. 지금까지 중 가장 많은 마케너가 함께했습니다."
   },
   {
    "year": 2024,
    "title": "Pink Festival",
    "date": "13 OCT 2024 · SUN",
-   "sub": "두 번째 참가. 가족·친구와 함께 5km와 10km를 달렸습니다."
-  },
-  {
-   "year": 2023,
-   "title": "Breast Cancer Pink-Out Day",
-   "date": "15 OCT 2023 · SUN",
-   "sub": "MARKEN이 처음으로 핑크런에 참가한 해입니다."
+   "sub": "MARKEN이 처음으로 핑크런에 참가한 해입니다. 가족·친구와 함께 5km와 10km를 달렸습니다."
   }
  ]
 };

@@ -74,7 +74,7 @@
   (function heroSlideshow() {
     const media = $(".hero__media"), baseImg = $(".hero__img");
     if (!media) return;
-    const srcs = ["assets/hero/hero.jpg", "assets/large/y2025-09.jpg", "assets/large/y2024-06.jpg", "assets/large/y2023-01.jpg", "assets/large/y2025-05.jpg"];
+    const srcs = ["assets/hero/hero.jpg", "assets/large/y2025-09.jpg", "assets/large/y2024-06.jpg", "assets/large/y2025-05.jpg"];
     if (baseImg) baseImg.style.display = "none";
     const slides = srcs.map((s, i) => {
       const im = document.createElement("img");
