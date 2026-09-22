@@ -136,6 +136,177 @@ window.PINKRUN = {
    "caption": "끝까지, 함께"
   },
   {
+   "id": "y2024-18",
+   "year": 2024,
+   "w": 2000,
+   "h": 1137,
+   "ratio": 0.5685,
+   "orient": "landscape",
+   "caption": "출발선의 아침"
+  },
+  {
+   "id": "y2024-19",
+   "year": 2024,
+   "w": 2000,
+   "h": 1334,
+   "ratio": 0.667,
+   "orient": "landscape",
+   "caption": "다 함께 출발"
+  },
+  {
+   "id": "y2024-20",
+   "year": 2024,
+   "w": 2000,
+   "h": 1334,
+   "ratio": 0.667,
+   "orient": "landscape",
+   "caption": "응원 속을 달리다"
+  },
+  {
+   "id": "y2024-21",
+   "year": 2024,
+   "w": 2000,
+   "h": 1334,
+   "ratio": 0.667,
+   "orient": "landscape",
+   "caption": "결승선을 향해"
+  },
+  {
+   "id": "y2024-22",
+   "year": 2024,
+   "w": 2000,
+   "h": 1330,
+   "ratio": 0.665,
+   "orient": "landscape",
+   "caption": "완주의 순간"
+  },
+  {
+   "id": "y2024-23",
+   "year": 2024,
+   "w": 2000,
+   "h": 901,
+   "ratio": 0.4505,
+   "orient": "landscape",
+   "caption": "기록을 남기다"
+  },
+  {
+   "id": "y2024-24",
+   "year": 2024,
+   "w": 2000,
+   "h": 901,
+   "ratio": 0.4505,
+   "orient": "landscape",
+   "caption": "서로를 응원하며"
+  },
+  {
+   "id": "y2024-25",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "함께 달린 길"
+  },
+  {
+   "id": "y2024-26",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "행사장 풍경"
+  },
+  {
+   "id": "y2024-27",
+   "year": 2024,
+   "w": 2000,
+   "h": 901,
+   "ratio": 0.4505,
+   "orient": "landscape",
+   "caption": "포토존에서"
+  },
+  {
+   "id": "y2024-28",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "가족과 함께"
+  },
+  {
+   "id": "y2024-29",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "기념 촬영"
+  },
+  {
+   "id": "y2024-30",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "추억 한 장"
+  },
+  {
+   "id": "y2024-31",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "현장의 열기"
+  },
+  {
+   "id": "y2024-32",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "참가 기념품"
+  },
+  {
+   "id": "y2024-33",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "웃음이 번지는 순간"
+  },
+  {
+   "id": "y2024-34",
+   "year": 2024,
+   "w": 901,
+   "h": 2000,
+   "ratio": 2.2198,
+   "orient": "portrait",
+   "caption": "함께라서 좋았던 날"
+  },
+  {
+   "id": "y2024-35",
+   "year": 2024,
+   "w": 2000,
+   "h": 901,
+   "ratio": 0.4505,
+   "orient": "landscape",
+   "caption": "2024 핑크 페스티벌"
+  },
+  {
+   "id": "y2024-36",
+   "year": 2024,
+   "w": 2000,
+   "h": 901,
+   "ratio": 0.4505,
+   "orient": "landscape",
+   "caption": "그날의 기록"
+  },
+  {
    "id": "y2025-01",
    "year": 2025,
    "w": 2000,
