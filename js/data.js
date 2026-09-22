@@ -325,15 +325,6 @@ window.PINKRUN = {
    "caption": "2025 핑크런"
   },
   {
-   "id": "y2025-06",
-   "year": 2025,
-   "w": 2000,
-   "h": 1305,
-   "ratio": 0.6525,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
    "id": "y2025-07",
    "year": 2025,
    "w": 2000,
@@ -352,29 +343,11 @@ window.PINKRUN = {
    "caption": "2025 핑크런"
   },
   {
-   "id": "y2025-09",
-   "year": 2025,
-   "w": 2000,
-   "h": 1262,
-   "ratio": 0.631,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
    "id": "y2025-10",
    "year": 2025,
    "w": 2000,
    "h": 1292,
    "ratio": 0.646,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
-   "id": "y2025-11",
-   "year": 2025,
-   "w": 2000,
-   "h": 1200,
-   "ratio": 0.6,
    "orient": "landscape",
    "caption": "2025 핑크런"
   },
@@ -478,24 +451,6 @@ window.PINKRUN = {
    "caption": "2025 핑크런"
   },
   {
-   "id": "y2025-27",
-   "year": 2025,
-   "w": 1429,
-   "h": 2000,
-   "ratio": 1.3996,
-   "orient": "portrait",
-   "caption": "2025 핑크런"
-  },
-  {
-   "id": "y2025-28",
-   "year": 2025,
-   "w": 1429,
-   "h": 2000,
-   "ratio": 1.3996,
-   "orient": "portrait",
-   "caption": "2025 핑크런"
-  },
-  {
    "id": "y2025-29",
    "year": 2025,
    "w": 2000,
@@ -511,24 +466,6 @@ window.PINKRUN = {
    "h": 1429,
    "ratio": 0.7145,
    "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
-   "id": "y2025-32",
-   "year": 2025,
-   "w": 1429,
-   "h": 2000,
-   "ratio": 1.3996,
-   "orient": "portrait",
-   "caption": "2025 핑크런"
-  },
-  {
-   "id": "y2025-35",
-   "year": 2025,
-   "w": 1429,
-   "h": 2000,
-   "ratio": 1.3996,
-   "orient": "portrait",
    "caption": "2025 핑크런"
   },
   {
@@ -550,29 +487,11 @@ window.PINKRUN = {
    "caption": "2025 핑크런"
   },
   {
-   "id": "y2025-39",
-   "year": 2025,
-   "w": 2000,
-   "h": 1429,
-   "ratio": 0.7145,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
    "id": "y2025-40",
    "year": 2025,
    "w": 2000,
    "h": 1429,
    "ratio": 0.7145,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
-   "id": "y2025-42",
-   "year": 2025,
-   "w": 2000,
-   "h": 1428,
-   "ratio": 0.714,
    "orient": "landscape",
    "caption": "2025 핑크런"
   },
