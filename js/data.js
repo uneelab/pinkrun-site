@@ -199,15 +199,6 @@ window.PINKRUN = {
    "caption": "서로를 응원하며"
   },
   {
-   "id": "y2024-25",
-   "year": 2024,
-   "w": 901,
-   "h": 2000,
-   "ratio": 2.2198,
-   "orient": "portrait",
-   "caption": "함께 달린 길"
-  },
-  {
    "id": "y2024-26",
    "year": 2024,
    "w": 901,
@@ -278,15 +269,6 @@ window.PINKRUN = {
    "ratio": 2.2198,
    "orient": "portrait",
    "caption": "웃음이 번지는 순간"
-  },
-  {
-   "id": "y2024-34",
-   "year": 2024,
-   "w": 901,
-   "h": 2000,
-   "ratio": 2.2198,
-   "orient": "portrait",
-   "caption": "함께라서 좋았던 날"
   },
   {
    "id": "y2024-35",
