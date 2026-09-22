@@ -298,15 +298,6 @@ window.PINKRUN = {
    "caption": "2025 핑크런"
   },
   {
-   "id": "y2025-05",
-   "year": 2025,
-   "w": 2000,
-   "h": 1144,
-   "ratio": 0.572,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
    "id": "y2025-07",
    "year": 2025,
    "w": 2000,
@@ -388,29 +379,11 @@ window.PINKRUN = {
    "caption": "2025 핑크런"
   },
   {
-   "id": "y2025-21",
-   "year": 2025,
-   "w": 2000,
-   "h": 1148,
-   "ratio": 0.574,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
    "id": "y2025-22",
    "year": 2025,
    "w": 2000,
    "h": 1254,
    "ratio": 0.627,
-   "orient": "landscape",
-   "caption": "2025 핑크런"
-  },
-  {
-   "id": "y2025-23",
-   "year": 2025,
-   "w": 2000,
-   "h": 1176,
-   "ratio": 0.588,
    "orient": "landscape",
    "caption": "2025 핑크런"
   },
