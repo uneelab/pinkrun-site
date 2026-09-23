@@ -181,15 +181,6 @@ window.PINKRUN = {
    "caption": "완주의 순간"
   },
   {
-   "id": "y2024-23",
-   "year": 2024,
-   "w": 2000,
-   "h": 901,
-   "ratio": 0.4505,
-   "orient": "landscape",
-   "caption": "기록을 남기다"
-  },
-  {
    "id": "y2024-24",
    "year": 2024,
    "w": 2000,
